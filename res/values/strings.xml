@@ -722,4 +722,8 @@
 
     <!-- Label for the phone account settings [CHAR LIMIT=30] -->
     <string name="phone_account_settings_label">Calling accounts</string>
+
+    <!-- Forward lookup -->
+    <string name="nearby_places">Nearby places</string>
+    <string name="people">People</string>
 </resources>
