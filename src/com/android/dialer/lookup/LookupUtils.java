@@ -32,7 +32,7 @@ import java.util.regex.Pattern;
 
 public class LookupUtils {
     private static final String USER_AGENT =
-            "Mozilla/5.0 (X11; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0";
+            "Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0";
 
     public static String httpGet(HttpGet request) throws IOException {
         HttpClient client = new DefaultHttpClient();
